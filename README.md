@@ -1,4 +1,4 @@
-## Ola, meu nome é Matheus Germano, e estudo para me tornar um dev Full-Stack!
+## Ola, meu nome é Matheus Germano, sou estudante de Ciencia e Tecnologia pela UNIFESP e estudo para me tornar um dev Full-Stack!
 
 ![Matheus Germano GitHub stats](https://github-readme-stats.vercel.app/api?username=m-germano&show_icons=true&theme=dracula)
 
