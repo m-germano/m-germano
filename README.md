@@ -1,6 +1,6 @@
 ## Ola, meu nome é Matheus Germano, e estudo para me tornar um dev Full-Stack!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-germano)](https://github.com/m-germano/github-readme-stats&theme=radical)
+![Matheus Germano GitHub stats](https://github-readme-stats.vercel.app/api?username=m-germanoa&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
