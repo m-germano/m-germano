@@ -5,8 +5,8 @@
 
 
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-germano&layout=compact&hide_border=true&title_color=2F4F4F&text_color=FFFFFF&bg_color=0d1117" />
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=m-germano&show_icons=true&count_private=true&hide_border=true&title_color=2F4F4F&icon_color=2F4F4F&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Germano da Silva github stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-germano&layout=compact&hide_border=true&title_color=2F4F4F&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=m-germano&show_icons=true&count_private=true&hide_border=true&title_color=2F4F4F&icon_color=2F4F4F&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Germano da Silva github stats" /> 
  
 </div>
 
