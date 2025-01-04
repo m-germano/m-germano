@@ -1,20 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Matheus+Germano;I+study+Analysis+and+Systems+Development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=FFFFFF&size=30&align=left&vCenter=true&width=1000&lines=Hello!+I'm+Matheus+Germano;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+
+Student at @FATEC
 
 
 
 
+[![Instagram Badge](https://img.shields.io/badge/-@mgermano._-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mgermano._/)](https://www.instagram.com/mgermano._/)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Germano-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-germano/)](https://www.linkedin.com/in/math-germano/)
+[![Gmail Badge](https://img.shields.io/badge/-silvaa.matheus112@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvaa.matheus112@gmail.com)](mailto:silvaa.matheus112@gmail.com)
 
-<div align="center">  
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-germano&layout=compact&hide_border=true&title_color=2F4F4F&text_color=FFFFFF&bg_color=0d1117" />
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=m-germano&show_icons=true&count_private=true&hide_border=true&title_color=2F4F4F&icon_color=2F4F4F&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Germano da Silva github stats" /> 
- 
-</div>
+I am a technology enthusiast, always seeking opportunities to learn and apply my knowledge in challenging projects. My goal is to grow as a developer and contribute to innovative projects that make a difference.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m-germano&bg_color=0d1117&color=2F4F4F&line=2F4F4F&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> **"The most dangerous phrase in the language is, 'We’ve always done it this way.'"**  
+> — *Grace Hopper*
 
- 
 ### Main skills:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,python,mysql" height="45" />
