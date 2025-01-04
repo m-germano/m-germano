@@ -23,29 +23,22 @@ I am a technology enthusiast, always seeking opportunities to learn and apply my
  
 ### Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,figma" height="35" />
 </div>
  
 ### Other Knowledge:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,flask,aws,postgres,wordpress" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,flask,aws,postgres,wordpress" height="35" />
 </div>
 
   
-### Studying in this moment:
+### Currently Learning:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,nextjs,express,docker,spring" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,nextjs,express,docker,spring" height="35" />
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{m-germano}/count.svg" /></p> 
 <br></div>
-
-<div align="center">  
-<a href="https://www.instagram.com/mgermano._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/math-germano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div> 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=120&section=footer"/>
