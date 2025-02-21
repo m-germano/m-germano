@@ -13,7 +13,7 @@ Student at @FATEC
 
 I am a technology enthusiast, always seeking opportunities to learn and apply my knowledge in challenging projects. My goal is to grow as a developer and contribute to innovative projects that make a difference.
 
-> **"The most dangerous phrase in the language is, 'We’ve always done it this way.'"**  
+> **"The most dangerous phrase in the language is 'We’ve always done it this way.'"**  
 > — *Grace Hopper*
 
 ### Main skills:
