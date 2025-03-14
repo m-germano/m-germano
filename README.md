@@ -18,7 +18,7 @@ I am a technology enthusiast, always seeking opportunities to learn and apply my
 
 ### Main skills:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nextjs,vite,nodejs,npm,nestjs,express, mysql" height="45" />
 </div>
  
 ### Tools:
@@ -35,7 +35,7 @@ I am a technology enthusiast, always seeking opportunities to learn and apply my
   
 ### Currently Learning:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,nextjs,express,docker,spring" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,django,java,spring" height="35" />
 </div>
 
 <div align="center">
