@@ -17,19 +17,20 @@ I am a technology enthusiast, always seeking opportunities to learn and apply my
 > — *Martin Fowler*
 
 ### Main skills:
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nextjs,vite,nodejs,npm,nestjs,express, mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nextjs,vite,nodejs,npm,nestjs,express,mysql" height="45" />
 </div>
  
 ### Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,figma" height="35" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,figma" height="45" />
 </div>
  
 ### Other Knowledge:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,flask,aws,postgres,wordpress" height="35" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,flask,aws,postgres,wordpress" height="45" />
 </div>
 
   
