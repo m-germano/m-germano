@@ -36,7 +36,7 @@ I am a technology enthusiast, always seeking opportunities to learn and apply my
   
 ### Currently Learning:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,django,java,spring" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,django,java,spring,fastapi" height="35" />
 </div>
 
 <div align="center">
