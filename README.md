@@ -13,8 +13,8 @@ Student at @FATEC
 
 I am a technology enthusiast, always seeking opportunities to learn and apply my knowledge in challenging projects. My goal is to grow as a developer and contribute to innovative projects that make a difference.
 
-> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**  
-> — *Martin Fowler*
+> **"If, at first, you do not succeed, call it version 1.0."**  
+> — *Khayri R.R. Woulfe*
 
 ### Main skills:
 
