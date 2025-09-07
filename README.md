@@ -13,33 +13,30 @@ Student at @FATEC
 
 I am a technology enthusiast, always seeking opportunities to learn and apply my knowledge in challenging projects. My goal is to grow as a developer and contribute to innovative projects that make a difference.
 
-> **"If, at first, you do not succeed, call it version 1.0."**  
-> — *Khayri R.R. Woulfe*
+> **"The most dangerous phrase in the language is: We've always done it this way."**  
+> — *Grace Hopper*
 
 ### Main skills:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,vite,nodejs,npm,nestjs,express,mysql,postgres" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,vite,nodejs,nestjs,express,mysql,postgres" height="45" />
 </div>
  
 ### Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,linux,figma" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma" height="45" />
 </div>
  
 ### Other Knowledge:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,flask,aws,wordpress,java,spring" height="45" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,aws,wordpress,java,spring" height="45" />
 </div>
 
   
 ### Currently Learning:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,django,fastapi,angular" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,django,fastapi" height="35" />
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{m-germano}/count.svg" /></p> 
-<br></div>
+
